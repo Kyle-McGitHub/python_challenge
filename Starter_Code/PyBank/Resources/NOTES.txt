@@ -1,0 +1,5 @@
+See screenshot for what the professor said the correct code would be to derive the correct answer. The answer given on Canvas does not line up with this, but if every value is a change, this is the correct number.
+
+Perhaps what you meant is the "average change in change", but as far as I can tell the answer given on Canvas also isn't that.
+
+Since I don't know how you would derive the number given on Canvas, and I don't know what is being asked for, I'm leaving it like this based on what the instructor has said.
