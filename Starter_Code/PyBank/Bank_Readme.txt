@@ -1,0 +1,1 @@
+This code, labeled main, will output the number of months, the total dollar value of changes, the average change in any given month, and the greatest increase and decrease in the profits for any given month. It will output the results to results.txt in the same folder.

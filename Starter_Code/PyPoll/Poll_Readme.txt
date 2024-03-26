@@ -1,0 +1,1 @@
+This code, labled main.py, will output the total votes, the candidate names, the candidate percentage won, the total votes won by the candidate, and the overall winner in the dataset. This will be output to results.txt in the same folder.
